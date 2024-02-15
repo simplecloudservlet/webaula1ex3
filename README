@@ -1,7 +1,6 @@
 
 WEBAULA1EX3
 
-echo "# webaula1ex1" >> README.md
 git init
 git add *
 git commit -m "first commit"
